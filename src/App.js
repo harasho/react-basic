@@ -21,6 +21,7 @@ export const App = memo(() => {
     <p>{num}</p>
     <Child1 onClickReset={onClickReset}/>
     <Child4 />
+    <p>テスト</p>
     </>
   )
 });
